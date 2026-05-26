@@ -21,4 +21,4 @@ Api usada é da OpenWeathermap.
    npx expo start
    ```
 
-
+## Projeto Funcionando esta na aba Videos
