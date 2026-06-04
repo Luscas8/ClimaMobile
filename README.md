@@ -22,3 +22,6 @@ Api usada é da OpenWeathermap.
    ```
 
 ## Projeto Funcionando esta na aba Videos
+
+
+Aluno: Lucas Brendo Alves dos Santos conceição Matrícula: 202402533843
